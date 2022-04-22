@@ -1,1 +1,1 @@
-# mineSweeper-python
+# Mine Sweeper Python Game
